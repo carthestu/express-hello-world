@@ -31,7 +31,7 @@
     };
   };
   // Load our custom `autorotate` plugin; see below.
-  globe.loadPlugin(autorotate(10));
+  globe.loadPlugin(autorotate(100));
   // The `earth` plugin draws the oceans and the land; it's actually
   // a combination of several separate built-in plugins.
   //
